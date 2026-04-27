@@ -1,0 +1,598 @@
+WEBVTT
+
+1
+00:00:02.850 --> 00:00:04.880
+Jennifer p: Oh, I guess that would've…
+
+2
+00:00:04.880 --> 00:00:05.500
+Divya Sai Sukanya Indala: Oh, God.
+
+3
+00:00:05.670 --> 00:00:10.419
+Jennifer p: Good thinking to record it. I'm sorry, you guys, we just kind of had our half-hour meeting.
+
+4
+00:00:10.910 --> 00:00:11.380
+Jay Beladiya: Yeah.
+
+5
+00:00:11.380 --> 00:00:12.280
+Divya Sai Sukanya Indala: Yeah.
+
+6
+00:00:12.280 --> 00:00:14.589
+Jennifer p: Okay, so in summary.
+
+7
+00:00:14.730 --> 00:00:20.180
+Jennifer p: I think what I see from as far as what's uploaded to GitHub, I think me and Shiva uploaded.
+
+8
+00:00:20.180 --> 00:00:20.730
+Divya Sai Sukanya Indala: Hmm.
+
+9
+00:00:20.730 --> 00:00:27.580
+Jennifer p: And I… I mean, I put in my chat logs, and I just made a document of, like, some of my failures.
+
+10
+00:00:28.110 --> 00:00:30.800
+Jennifer p: And… loaded it.
+
+11
+00:00:31.200 --> 00:00:37.019
+Jennifer p: And then, Jay and Devia, you said you're gonna load your things to GitHub soon.
+
+12
+00:00:37.310 --> 00:00:40.439
+Jennifer p: So I think at this point, we just kind of need to…
+
+13
+00:00:40.850 --> 00:00:43.679
+Jennifer p: write the paper. I started writing some things.
+
+14
+00:00:44.210 --> 00:00:46.520
+Jennifer p: To get something going.
+
+15
+00:00:47.530 --> 00:00:53.259
+Jennifer p: But… I don't really know what to write, because I don't know the results of everyone's testing, you know what I mean?
+
+16
+00:00:54.040 --> 00:00:56.529
+Jay Beladiya: Are we supposed to, like, add,
+
+17
+00:00:56.790 --> 00:01:00.729
+Jay Beladiya: Section about how we tested everything, or…
+
+18
+00:01:01.070 --> 00:01:04.279
+Jay Beladiya: Are we just comparing all the results in the entire report?
+
+19
+00:01:07.810 --> 00:01:09.439
+Jennifer p: Can you repeat your question?
+
+20
+00:01:09.800 --> 00:01:12.660
+Jay Beladiya: Oh, in the report, are we having, like, a…
+
+21
+00:01:13.330 --> 00:01:16.900
+Jay Beladiya: Methodology section, which explains, kind of like.
+
+22
+00:01:17.430 --> 00:01:23.959
+Jay Beladiya: or something that kind of explains how we tested the models, or are we just gonna…
+
+23
+00:01:23.960 --> 00:01:27.619
+Jennifer p: It might not be perfect, but it doesn't mean I wrote something in methodology.
+
+24
+00:01:28.880 --> 00:01:30.180
+Jay Beladiya: I haven't looked at it yet.
+
+25
+00:01:30.180 --> 00:01:47.720
+Shiva Kumar Chary Valaboju: In the final report section, in the final deliveries, he said that executive summary, methodology, key findings, cross-system analysis, ethical implications, legal consideration, recommendations, clearly identifying and illustrating significant failure cases found during testing.
+
+26
+00:01:47.840 --> 00:01:54.360
+Shiva Kumar Chary Valaboju: Provide concrete recommendations for organizational safeguards, ethical training, and transparency practices.
+
+27
+00:01:54.740 --> 00:01:59.009
+Shiva Kumar Chary Valaboju: So these are all the things he said to include in final report for 5 pages.
+
+28
+00:02:01.350 --> 00:02:03.359
+Jay Beladiya: It's kind of a lot for 5 pages.
+
+29
+00:02:04.650 --> 00:02:22.439
+Shiva Kumar Chary Valaboju: So I think, so, we should, if you look at the project steps, we need to do our GitHub repo and everything. We did our Google Doc, and we are doing our communication plans, and we have chooses our individual AI systems.
+
+30
+00:02:22.510 --> 00:02:25.430
+Shiva Kumar Chary Valaboju: And we have splitted our test designs.
+
+31
+00:02:25.760 --> 00:02:39.740
+Shiva Kumar Chary Valaboju: So once we have done our testing implications, like, he… in step 4, he said that, each student conducts systematic testing based on the testing, so I think step 4 and Step 5, if you have a look at it.
+
+32
+00:02:39.980 --> 00:02:47.709
+Shiva Kumar Chary Valaboju: I think that should be done individually. If we do that individually, after that, we can do our step 6 for group synthesis.
+
+33
+00:02:47.990 --> 00:02:55.479
+Shiva Kumar Chary Valaboju: Doing our comparison across systems, and we can write a final report based on those things.
+
+34
+00:02:55.890 --> 00:03:08.150
+Shiva Kumar Chary Valaboju: Like, he said that compared findings across systems, common failure models, common failure modes, unique challenges, risk pattern, best practices, and mitigation strategies.
+
+35
+00:03:08.890 --> 00:03:19.110
+Shiva Kumar Chary Valaboju: So that's what he tried to, he told us to do for the step 6, and Step 7 is, like, writing the final report for the Step 6, and submitting it, that's it.
+
+36
+00:03:22.290 --> 00:03:23.859
+Shiva Kumar Chary Valaboju: I think that's gonna be it.
+
+37
+00:03:25.350 --> 00:03:35.209
+Jay Beladiya: I'm gonna upload the notes for my AI system today, like, tonight, like, after 30, 40 minutes, because it's almost done, I just had to…
+
+38
+00:03:35.650 --> 00:03:37.530
+Jay Beladiya: Add some stuff in it.
+
+39
+00:03:37.700 --> 00:03:41.559
+Jay Beladiya: And then, we can start on the final report.
+
+40
+00:03:41.560 --> 00:03:42.130
+Shiva Kumar Chary Valaboju: Yeah.
+
+41
+00:03:42.130 --> 00:03:42.810
+Jay Beladiya: Tomorrow.
+
+42
+00:03:43.660 --> 00:03:44.909
+Shiva Kumar Chary Valaboju: Yep, no problem.
+
+43
+00:03:46.390 --> 00:03:51.610
+Jay Beladiya: So, how are we writing the final report? Like, who's doing who, or is it, like…
+
+44
+00:03:53.030 --> 00:03:54.400
+Jay Beladiya: Are we gonna do this?
+
+45
+00:03:55.180 --> 00:03:58.560
+Jennifer p: I've written, like, two and a half pages so far, but, like…
+
+46
+00:03:58.900 --> 00:04:07.479
+Jennifer p: I don't want to rate the whole thing, because I have other… I know you guys do, too. Everyone has competing priorities, so I was trying to gather some ideas, because I…
+
+47
+00:04:07.920 --> 00:04:15.890
+Jennifer p: Because it's due soon, and I was just trying to, like, get some thoughts on paper, but this is very much in draft mode.
+
+48
+00:04:16.060 --> 00:04:21.579
+Jennifer p: But once I… I mean, once everyone… like…
+
+49
+00:04:21.820 --> 00:04:25.880
+Jennifer p: puts all their findings somewhere? Like, compiles their findings, or…
+
+50
+00:04:26.870 --> 00:04:29.949
+Jennifer p: I mean, it's gonna be easier to write once we know what we're writing about, but…
+
+51
+00:04:30.440 --> 00:04:42.249
+Jennifer p: I don't know, so far I'm just writing about my… what I've seen on my end with some of the testing, but I'm writing as if it's generalized for everyone, but I don't want to… I don't want to speak for everyone if they're not seeing the same
+
+52
+00:04:42.580 --> 00:04:44.729
+Jennifer p: conclusions that I'm seeing, you know what I mean?
+
+53
+00:04:46.410 --> 00:04:52.710
+Shiva Kumar Chary Valaboju: So, should we split the final report, or is anyone, like, a single person doing the final report?
+
+54
+00:04:53.390 --> 00:04:57.280
+Jay Beladiya: Maybe not a single person, at least, let's have at least two people do it.
+
+55
+00:04:58.040 --> 00:04:59.730
+Jennifer p: I think everyone should do it, like, everyone should.
+
+56
+00:05:00.570 --> 00:05:01.040
+Jay Beladiya: Yeah.
+
+57
+00:05:01.040 --> 00:05:04.500
+Jennifer p: A little bit, because this… It's just…
+
+58
+00:05:05.210 --> 00:05:08.480
+Jennifer p: It's just, it's the end of the semester, and everyone's busy, so I think…
+
+59
+00:05:08.720 --> 00:05:12.420
+Jennifer p: If we split it and make it smaller, it's gonna be easier, but…
+
+60
+00:05:12.990 --> 00:05:17.850
+Jay Beladiya: Yeah, I think there's a lot of sections, we can just… Split it by sections, like…
+
+61
+00:05:18.170 --> 00:05:25.810
+Jay Beladiya: If y'all, if somebody… I don't know how many sections there are, like, maybe, let's say, first 4, somebody does first 4, the next four…
+
+62
+00:05:26.330 --> 00:05:30.150
+Jay Beladiya: 4, or 2, or 3, I don't know how many sections there are.
+
+63
+00:05:30.420 --> 00:05:30.960
+Shiva Kumar Chary Valaboju: the.
+
+64
+00:05:30.960 --> 00:05:31.690
+Jay Beladiya: Something like that.
+
+65
+00:05:31.690 --> 00:05:37.159
+Shiva Kumar Chary Valaboju: 9 sections, like, 9 points he gave us to include in final report.
+
+66
+00:05:38.830 --> 00:05:39.670
+Jay Beladiya: Okay.
+
+67
+00:05:39.670 --> 00:05:41.450
+Jennifer p: Well, I'll take the top.
+
+68
+00:05:41.670 --> 00:05:42.590
+Jennifer p: 2…
+
+69
+00:05:42.590 --> 00:05:43.300
+Jay Beladiya: Yeah, Slack.
+
+70
+00:05:43.300 --> 00:05:44.030
+Jennifer p: I already wrote him.
+
+71
+00:05:44.030 --> 00:05:45.149
+Jay Beladiya: Or the last three.
+
+72
+00:05:45.650 --> 00:05:50.079
+Jennifer p: I already wrote, executive summary and methodology.
+
+73
+00:05:50.830 --> 00:05:53.780
+Jennifer p: And I started writing key findings.
+
+74
+00:05:53.780 --> 00:05:54.620
+Shiva Kumar Chary Valaboju: I think we should…
+
+75
+00:05:54.620 --> 00:05:55.989
+Jennifer p: But I started editing.
+
+76
+00:05:55.990 --> 00:06:00.380
+Shiva Kumar Chary Valaboju: The final report should include all the agents that we have done for 4 people, right?
+
+77
+00:06:00.550 --> 00:06:01.160
+Shiva Kumar Chary Valaboju: So, did you do.
+
+78
+00:06:01.160 --> 00:06:01.550
+Jay Beladiya: Yeah.
+
+79
+00:06:01.790 --> 00:06:06.660
+Shiva Kumar Chary Valaboju: Did that for… All the AA agents, the executive summary and the methodology?
+
+80
+00:06:08.090 --> 00:06:15.529
+Jennifer p: Yeah, I didn't… I didn't write a separate one for every agent. I wrote it as collectively, as if we were talking about our collective…
+
+81
+00:06:16.440 --> 00:06:17.970
+Jennifer p: experience.
+
+82
+00:06:18.250 --> 00:06:19.760
+Jennifer p: with AI agents.
+
+83
+00:06:19.760 --> 00:06:22.750
+Shiva Kumar Chary Valaboju: Because I think the final report should have, like.
+
+84
+00:06:22.900 --> 00:06:26.530
+Shiva Kumar Chary Valaboju: what did everyone did for, like, example, ChatGPT or Cloud, or…
+
+85
+00:06:27.060 --> 00:06:34.159
+Shiva Kumar Chary Valaboju: Whatever the AA agents we have used, Gemini, so the executive summary and the methodology should be including those things, so…
+
+86
+00:06:34.520 --> 00:06:36.539
+Shiva Kumar Chary Valaboju: I'm just was… I'm just making sure, like…
+
+87
+00:06:36.540 --> 00:06:40.590
+Jennifer p: It just says it in there. I mean, it says, we tested these agents.
+
+88
+00:06:40.960 --> 00:06:49.419
+Shiva Kumar Chary Valaboju: Yeah, because, Divya and Jayden uploaded those files, so… did you wrote everything included their work, or just…
+
+89
+00:06:49.420 --> 00:06:57.879
+Jennifer p: Yeah, so just to summarize, I… what I've written so far, I wrote with a perspective that I am assuming everyone kind of got similar
+
+90
+00:06:58.050 --> 00:07:01.569
+Jennifer p: similar behaviors from their AI, but…
+
+91
+00:07:01.950 --> 00:07:12.579
+Jennifer p: once we… once everyone uploads their stuff, and they kind of re… revisit what was written, if they're like, Jennifer, my AI did not act like that, we can… we can rewrite it.
+
+92
+00:07:14.000 --> 00:07:14.789
+Divya Sai Sukanya Indala: So…
+
+93
+00:07:14.790 --> 00:07:31.049
+Jennifer p: I can revise it, or whatever, you know what I mean? I was just starting to write, because nothing was done yet, and it's due in a few days, and I'm just kind of in the end of semester mode. I was like, oh, I think I need to start writing something, because I don't… I don't know where everyone's at, because everyone's been quiet, and so I just started
+
+94
+00:07:31.050 --> 00:07:37.009
+Jennifer p: typing. I don't know. I was just… it was more anxiety on my part to try to get some stuff done.
+
+95
+00:07:38.960 --> 00:07:51.300
+Divya Sai Sukanya Indala: So I'm almost done with my analysis, like, which is bound testing. So, everyone doing, like, each and every analysis, like, the age cases and everything like that.
+
+96
+00:07:53.180 --> 00:07:58.109
+Divya Sai Sukanya Indala: like, only, like, individual ones, like, we separated it, right? So…
+
+97
+00:08:00.070 --> 00:08:05.710
+Jennifer p: Yeah, we separated it to… just for assigning… creating prompts.
+
+98
+00:08:06.090 --> 00:08:09.070
+Divya Sai Sukanya Indala: Hmm, yeah, yeah. So, okay.
+
+99
+00:08:11.350 --> 00:08:18.499
+Jennifer p: But then, since we had our own agents to… to test, we tested everyone's prompts on our individual agents.
+
+100
+00:08:18.650 --> 00:08:19.720
+Divya Sai Sukanya Indala: Yeah, I am.
+
+101
+00:08:20.610 --> 00:08:22.989
+Divya Sai Sukanya Indala: I did the same thing, I just want to confirm it.
+
+102
+00:08:23.570 --> 00:08:24.320
+Jennifer p: Okay.
+
+103
+00:08:25.390 --> 00:08:34.449
+Jay Beladiya: Oh, are we both splitting by the final report by sections, right? So, Jennifer said the first… the top 2, 3? How many was it?
+
+104
+00:08:36.190 --> 00:08:40.699
+Jennifer p: I mean, I've written what's there already, so executive summary methodology, and I started writing
+
+105
+00:08:41.559 --> 00:08:44.410
+Jennifer p: A page of key findings.
+
+106
+00:08:44.970 --> 00:08:49.680
+Jay Beladiya: Okay, so… I'll take the conclusion and the, like, the last two.
+
+107
+00:08:50.770 --> 00:08:55.620
+Jay Beladiya: If y'all wanna split, Shiva and Devya.
+
+108
+00:08:55.780 --> 00:08:57.399
+Jay Beladiya: What are your choices?
+
+109
+00:08:57.910 --> 00:08:58.920
+Shiva Kumar Chary Valaboju: Your pent thing is fine.
+
+110
+00:08:58.920 --> 00:09:01.090
+Divya Sai Sukanya Indala: Anything is fine, pop me out, you do.
+
+111
+00:09:01.910 --> 00:09:02.350
+Shiva Kumar Chary Valaboju: It's lit.
+
+112
+00:09:02.350 --> 00:09:06.980
+Jay Beladiya: I'll do the last two, Jennifer's almost done with the first, the top three.
+
+113
+00:09:07.480 --> 00:09:12.159
+Shiva Kumar Chary Valaboju: I'll take next to, like, legal considerations and recommendations.
+
+114
+00:09:12.160 --> 00:09:16.830
+Jay Beladiya: Okay, then I guess they've yet as… After… For sure.
+
+115
+00:09:17.190 --> 00:09:18.389
+Divya Sai Sukanya Indala: Yeah, okay.
+
+116
+00:09:18.970 --> 00:09:23.410
+Jennifer p: I'm just gonna write some… since it's, I mean…
+
+117
+00:09:31.960 --> 00:09:33.919
+Shiva Kumar Chary Valaboju: Let me share the screen.
+
+118
+00:09:33.920 --> 00:09:35.390
+Jennifer p: Wait, sweet, who's…
+
+119
+00:09:35.610 --> 00:09:39.650
+Shiva Kumar Chary Valaboju: So there's gonna be… first 3 were, like, for Jennifer.
+
+120
+00:09:40.920 --> 00:09:46.580
+Shiva Kumar Chary Valaboju: And the next two for Divya, and the next two is for me, and the next two is for Jay.
+
+121
+00:09:46.820 --> 00:09:47.359
+Jay Beladiya: Yeah, that's true.
+
+122
+00:09:47.360 --> 00:09:49.310
+Jennifer p: Okay, Jay, you had the last ones, right? Let me fix that.
+
+123
+00:09:49.310 --> 00:09:49.820
+Jay Beladiya: Yeah.
+
+124
+00:09:57.920 --> 00:10:04.209
+Jennifer p: So, are you guys okay with me taking away the other tabs on this report now? The meeting notes and the prompts?
+
+125
+00:10:04.620 --> 00:10:09.400
+Jennifer p: We all got the prompts now, like, they've been shared, we've all used them, we don't really need them anymore, I just…
+
+126
+00:10:09.860 --> 00:10:14.650
+Jennifer p: because the GitHub wasn't created yet, I just added tabs instead, for now.
+
+127
+00:10:14.650 --> 00:10:15.850
+Jay Beladiya: Yeah, sure.
+
+128
+00:10:16.870 --> 00:10:20.729
+Jennifer p: But I don't wanna… I don't want them to mess up the final report that we actually have to…
+
+129
+00:10:21.290 --> 00:10:29.450
+Jennifer p: like, submit, submit, so I just want to make sure no one had anything they needed before I delete those other tabs. So I'm just gonna keep it at just the report tab.
+
+130
+00:10:38.900 --> 00:10:46.320
+Shiva Kumar Chary Valaboju: So, like, once you guys upload that, let's finish our final report and… We'll meet again at…
+
+131
+00:10:47.930 --> 00:10:50.620
+Shiva Kumar Chary Valaboju: What's the deadline for the submission?
+
+132
+00:10:50.620 --> 00:10:51.900
+Jay Beladiya: I think it's met his name.
+
+133
+00:10:53.390 --> 00:10:55.689
+Shiva Kumar Chary Valaboju: Yeah, let's meet at Tuesday or Sunday.
+
+134
+00:10:58.590 --> 00:10:59.200
+Jay Beladiya: Okay.
+
+135
+00:10:59.200 --> 00:10:59.840
+Divya Sai Sukanya Indala: Yeah.
+
+136
+00:10:59.840 --> 00:11:02.569
+Jennifer p: Yeah, it'll have… yeah, Tuesday night is fine.
+
+137
+00:11:03.080 --> 00:11:07.439
+Jay Beladiya: Yeah, Tuesday night works for me, too. After 7.30, though, I have class before.
+
+138
+00:11:09.420 --> 00:11:10.340
+Shiva Kumar Chary Valaboju: Yeah, let's meet.
+
+139
+00:11:10.340 --> 00:11:10.800
+Jennifer p: Who else?
+
+140
+00:11:10.800 --> 00:11:13.099
+Shiva Kumar Chary Valaboju: Same 10 o'clock after 10 o'clock.
+
+141
+00:11:13.260 --> 00:11:14.510
+Shiva Kumar Chary Valaboju: on Tuesday.
+
+142
+00:11:15.200 --> 00:11:15.900
+Jay Beladiya: Okay.
+
+143
+00:11:16.000 --> 00:11:17.549
+Jennifer p: 10 o'clock on Tuesday, right?
+
+144
+00:11:19.970 --> 00:11:20.600
+Jay Beladiya: Yeah.
+
+145
+00:11:20.950 --> 00:11:21.570
+Jennifer p: Okay.
+
+146
+00:11:22.840 --> 00:11:24.770
+Jennifer p: Alrighty! Thanks, everyone!
+
+147
+00:11:24.770 --> 00:11:25.860
+Divya Sai Sukanya Indala: Okay.
+
+148
+00:11:25.860 --> 00:11:26.230
+Jay Beladiya: Good night.
+
+149
+00:11:26.450 --> 00:11:27.780
+Jennifer p: Alright, bye.
+
